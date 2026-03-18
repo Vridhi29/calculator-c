@@ -6,7 +6,7 @@
 [![Build](https://img.shields.io/badge/Build-GCC%20%2B%20Make-informational?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-blueviolet?style=for-the-badge)](https://github.com/Vridhi29/calculator-c)
 [![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)]()
-[![Open to Internships](https://img.shields.io/badge/Open%20To-Internships-orange?style=for-the-badge&logo=linkedin)]()
+
 
 <br/>
 
@@ -173,7 +173,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a6eb5,50:2389da,100:56aef7&height=120&section=footer)
 
 ⭐ **If you found this helpful, consider giving it a star!** ⭐
 
